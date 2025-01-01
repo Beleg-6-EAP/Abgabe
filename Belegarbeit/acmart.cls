@@ -2779,8 +2779,8 @@
   %\def\email##1##2{\unskip, \nolinkurl{##2}}%
   %\addresses
   %\egroup
-  Diese Arbeit wurde im Rahmen des Mastermoduls \glqq Software Engineering\grqq\ (Dozent: Prof. Dr. Andreas Both) an der HTWK Leipzig im Wintersemester 2023/2024 erstellt.
-  Diese Arbeit ist under der Lizenz ... freigegeben.}
+  Diese Arbeit wurde im Rahmen des Mastermoduls \glqq Software Engineering\grqq\ (Dozent: Prof. Dr. Andreas Both) an der HTWK Leipzig im Wintersemester 2024/2025 erstellt.
+  Diese Arbeit ist unter der Lizenz MIT freigegeben.}
 \AtEndDocument{\if@ACM@nonacm\else\if@ACM@journal
   \ifx\@authorsaddresses\@empty
   \ClassWarningNoLine{\@classname}{Authors'
